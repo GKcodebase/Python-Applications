@@ -1,3 +1,5 @@
+#  Copyright (c) 2023.
+
 # python code to retrieve data from config.ini file
 
 import os

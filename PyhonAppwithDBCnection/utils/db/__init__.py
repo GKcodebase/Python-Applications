@@ -1,3 +1,5 @@
+#  Copyright (c) 2023.
+
 # python codes to connect and query on DB
 import pandas as pd
 import mysql.connector as database

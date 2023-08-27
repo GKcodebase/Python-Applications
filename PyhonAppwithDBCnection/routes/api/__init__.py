@@ -1,10 +1,11 @@
+#  Copyright (c) 2023.
+
 # fast apis for budget
 from .schemas import Query
 from utils.db import connect
 from utils.db import queryDb
 from fastapi import APIRouter
 from utils.db import queryList
-from utils.db import queryUniList
 from utils.db.config import configuration
 
 api = APIRouter(prefix ="/api/v1")
